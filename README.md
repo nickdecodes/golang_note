@@ -1,2 +1,2 @@
-# golang
-golang
+# golang_note
+golang_note
