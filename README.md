@@ -1,2 +1,2 @@
-# [golang_note](http://c.biancheng.net/golang/)
-golang_note
+# [golang-note](http://c.biancheng.net/golang/)
+golang-note
